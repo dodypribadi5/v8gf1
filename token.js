@@ -110,7 +110,7 @@ setTimeout(function(){
        
       
     }, 2000);
-     $("#notif").text("- id pelanggan tidak salah -");
+     $("#notif").text("- id pelanggan salah -");
      $("#notif").css("color", "red");
         }
     });
